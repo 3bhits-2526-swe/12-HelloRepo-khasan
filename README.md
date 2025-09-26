@@ -10,3 +10,8 @@ Entwicklungsplatform: win 10
 Leesons Learned
   * Anliegen GitRepo mit gitignore und readme
   * Basic Workflow git <-> Github
+
+
+     Aenderungen durchgefuehrt
+
+  
